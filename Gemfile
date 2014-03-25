@@ -21,6 +21,8 @@ group :assets do
   # gem 'therubyracer', :platform => :ruby
 
   gem 'uglifier'
+  gem 'jquery-datatables-rails', github: 'rweng/jquery-datatables-rails'
+
 end
 
 gem 'jquery-rails'
